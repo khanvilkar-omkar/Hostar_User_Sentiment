@@ -1,6 +1,3 @@
-- Model CPU error
-
-
 ## Analysing User Watch Times and Predict the Segment (i.e. Sentiment)
 
 <div style="text-align: justify">Identifying customer sentiments is an important task in any business-to-customer (B2C) domain since it helps businesses to identify the areas of improvement by taking into account the interests of the users. Some of ways of identifying user sentiments include conducting a survey at regular intervals asking customers their likes, dislikes and preferences, capturing regular feedback regarding user experience etc. But, surveying customers and asking for feedback regularly can prove tedious for the users and hamper the user experience. Hence, we look at an alternate method of deducing user sentiment, by analysing the user behaviour.</div>  
